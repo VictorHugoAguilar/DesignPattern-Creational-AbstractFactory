@@ -9,3 +9,6 @@ El problema que intenta solucionar este patrón es el de crear diferentes famili
 El patrón Abstract Factory está aconsejado cuando se prevé la inclusión de nuevas familias de productos, pero puede resultar contraproducente cuando se añaden nuevos productos o cambian los existentes, puesto que afectaría a todas las familias creadas.
 
 
+![UML Abstract Factory]()
+
+![UML Caso de Uso]()
