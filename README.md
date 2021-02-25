@@ -12,4 +12,7 @@ El patrón de diseño Abstract Factory busca agrupar un conjunto de clases que t
 
 ![UML Abstract Factory](https://github.com/VictorHugoAguilar/DesignPattern-Creational-AbstractFactory/blob/master/img/abstract-factory-diagram.png?raw=true)
 
-![UML Caso de Uso]()
+## Diagrama de secuencia
+
+![UML Caso de Uso](https://github.com/VictorHugoAguilar/DesignPattern-Creational-AbstractFactory/blob/master/img/abstract-factory-sequence.png?raw=true)
+
